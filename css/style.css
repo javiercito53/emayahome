@@ -211,7 +211,9 @@ ul.nav.menu,
 	display:block;
 }
 
-
+#issn {
+    margin-left:18px;
+}
 
 /* CSS - Cascading Style Sheet */
 /* Palette color codes */

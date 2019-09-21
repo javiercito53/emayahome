@@ -55,6 +55,7 @@ $doc->addScript('templates/' . $this->template . '/js/main.js');
 									}
 								?>
 								<a id="siteLogo" class="col-xs-12 col-sm-12" href="<?php echo $this->baseurl; ?>/"><?php echo $logo; ?></a>
+								<span id="issn">ISSN: 2520-9841</span>
 							</div>
 						</div>
 						<div class="col-xs-4 col-sm-4 col-md-4 hidden-lg"></div>
